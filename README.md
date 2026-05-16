@@ -1,6 +1,8 @@
-# AI Search Visibility Tracker; Global Travel Brands
+# AI Search Visibility Tracker for Global Travel Brands
 
 > How visible are the world's biggest travel brands when people ask AI instead of Google?
+
+![App Screenshot](assets/Dashboard.png)
 
 This project audits the AI search visibility of 15 global travel brands across 4 major AI engines; ChatGPT, Perplexity, Claude, and Gemini. It was built to answer the question that every major brand should be asking right now: *when a potential customer asks an AI assistant for a recommendation, do you show up?*
 
